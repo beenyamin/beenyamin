@@ -16,6 +16,7 @@
 
 </div>
 
+
 <br/>
 
 ## 📌 My GitHub Stats
@@ -28,18 +29,18 @@
 ## 📞 Reach me out 
 
  <p align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/vn7n24fzkq/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/vn7n24fzkq/github-profile-summary-cards.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
-      <a href="https://www.conventionalcommits.org/en/v1.0.0/">
-      <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/actions/workflows/github-action.yml">
-      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
+
+[Discord]: https://discord.gg/aR6TcVzpbF
+[Facebook]: https://www.facebook.com/your-username
+[LinkedIn]: https://www.linkedin.com/in/your-username
+[Twitter]: https://twitter.com/your-username
+
+
    </p>
 
 
 <br />
+
 
 ## 💻 Technologies that I know
 
@@ -57,6 +58,7 @@
 
 
 <br/>
+
 
 ## 🕵️ Current overview
 
