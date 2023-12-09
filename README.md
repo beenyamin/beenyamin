@@ -47,13 +47,9 @@
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
   
-  
-  <h2>Talk to you soon!</h2>
 </div>
 
-
 <br />
-
 
 ## 💻 Technologies that I know
 
@@ -75,12 +71,43 @@
 
 ## 🕵️ Current overview
 
-### 🔭 I’m working - On My Personal Project. 
+### 🔭 I’m working - On My Personal Project.
+### 📫 How to reach me **beenyamin115@gmail.com** 
 ### 🚀 I’m exploring - Next.js & Redux . 
 ### 🤝 I'm always - open to new opportunities, collaborations, and discussions about all things front-end!. 
 ### 🤔 I’m trying - To Improve My Skills . 
 ### ⚡ Fun fact - I love Coding .
 
 <br />
+
+### 📑 Project
+<hr/>
+
+ ## 01 => Pet Adoption 
+
+  ##### [Live Link](https://assignment-12-981d3.web.app)
+  <!-- ##### [Client Side Link](https://github.com/beenyamin/Cozy_Pets_Client)
+ ##### [Server Side Link](https://github.com/beenyamin/Cozy_Pets_server) -->
+
+- In this Project I am using Some Awesome Feature Like (React , Firebase , Node , Express And MongoDb)
+- I am using <strong> TailWind</strong> (Css FrameWork) For Design This Web Site.
+- IN this Site User Can Adopt Pets and Donate Money For Pets.
+- Also User Can Pay Money Using Stripe.
+- And Also User Can Access The Dashboard,  
+
+ ## 02 => Z Library 
+
+  ##### [Live Link](https://assignment-11-fbabf.web.app)
+  <!-- ##### [Client Side Link](https://github.com/beenyamin/Cozy_Pets_Client)
+ ##### [Server Side Link](https://github.com/beenyamin/Cozy_Pets_server) -->
+
+- In this Project I am using Some Awesome Feature Like (React , Firebase , Node , Express And MongoDb)
+- I am using <strong> TailWind</strong> (Css FrameWork) For Design This Web Site.
+- Complete the User Authentication Using firebase
+- In this Site User Can Watch the All Book And Borrowed Book from this online library  
+
+
+
+
 
 
