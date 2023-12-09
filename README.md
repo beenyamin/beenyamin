@@ -7,18 +7,12 @@
  <a href="https://www.facebook.com/beenyamin20/">
 <img src="./assets/cover 2.png"  />
 </a>
-<br/>
 
-<br />
+<br/>
 
 ## 📊 Current Stats
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beenyamin&theme=radical)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beenyamin&theme=radical)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=beenyamin&theme=radical)
 
 </div>
 
@@ -26,12 +20,9 @@
 
 ## 📌 My GitHub Stats
 
- <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://api.githubtrends.io/user/svg/beenyamin/repos?time_range=one_year&theme=dark" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beenyamin&theme=radical)
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/">
-      <img alt="Stargazers" src="https://api.githubtrends.io/user/svg/beenyamin/langs?time_range=one_year&theme=dark"></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beenyamin&theme=radical)
 
 
 ## 📞 Reach me out 
@@ -46,9 +37,6 @@
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/actions/workflows/github-action.yml">
       <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
    </p>
-
-
-
 
 
 <br />
@@ -77,7 +65,6 @@
 ### 🤝 I'm always - open to new opportunities, collaborations, and discussions about all things front-end!. 
 ### 🤔 I’m trying - To Improve My Skills . 
 ### ⚡ Fun fact - I love Coding .
-
 
 <br />
 
