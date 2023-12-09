@@ -36,13 +36,13 @@
   <br><br>
   <a href="https://www.linkedin.com/in/been-yamin-434976182/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp;
+  </a>
   <a href="https://twitter.com/beenyamin20">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
-  </a>&nbsp;
+  </a>
   <a href="https://www.instagram.com/beenyamin.20/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
-  </a>&nbsp;
+  </a>
   <a href="mailto:beenyamin115@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
