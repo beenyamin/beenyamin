@@ -5,21 +5,53 @@
 
 
  <a href="https://www.facebook.com/beenyamin20/">
-<img src="./assets/Programming-amico.svg" />
+<img src="./assets/cover 2.png"  />
 </a>
-
-
-<br />
-<p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beenyamin&theme=radical&hide_border=true&border_radius=6.1&exclude_days=Tue)](https://git.io/streak-stats) 
-</p>
-
-
-## 📫 Reach me out 🔗
+<br/>
 
 <br />
 
+## 📊 Current Stats
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beenyamin&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beenyamin&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=beenyamin&theme=radical)
+
+</div>
+
+<br/>
+
+## 📌 My GitHub Stats
+
+ <div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://api.githubtrends.io/user/svg/beenyamin/repos?time_range=one_year&theme=dark" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/">
+      <img alt="Stargazers" src="https://api.githubtrends.io/user/svg/beenyamin/langs?time_range=one_year&theme=dark"></a>
+
+
+## 📞 Reach me out 
+
+ <p align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/">
+      <img alt="Stargazers" src="https://img.shields.io/github/stars/vn7n24fzkq/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/releases/latest">
+      <img alt="Releases" src="https://img.shields.io/github/release/vn7n24fzkq/github-profile-summary-cards.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
+      <a href="https://www.conventionalcommits.org/en/v1.0.0/">
+      <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/actions/workflows/github-action.yml">
+      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
+   </p>
+
+
+
+
+
+<br />
 
 ## 💻 Technologies that I know
 
@@ -36,7 +68,7 @@
 </p>
 
 
-><br/>
+<br/>
 
 ## 🕵️ Current overview
 
