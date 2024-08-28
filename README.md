@@ -5,7 +5,7 @@
 
 
  <a href="https://www.facebook.com/beenyamin20/">
-<img src="./assets/cover 2.png"  />
+<img src="./assets/_Linkedin , Github.png"  />
 </a>
 
 <br/>
